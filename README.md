@@ -5,8 +5,8 @@ WordDB (워드디비)
 
 - list_from_hwp.txt : 원자료(hwp)에서 복사한 파일
 - level_basic.txt : 초등학교에서 사용하기를 권장하는 800개단어
-- level_high.txt : 진로선택및 전문교과1에서 사용을 권장하는 400개단어
-- level_mid.txt : 위 1200개를 제외한 1800개단어
+- level_high.txt : 중학교 및 고등학교 일반과정까지
+- level_ext.txt : 진로선택및 전문교과1에서 사용을 권장하는 400개단어
 
 원자료: 국가교육과정정보센터 http://ncic.go.kr/mobile.dwn.ogf.inventoryList.do#
 
